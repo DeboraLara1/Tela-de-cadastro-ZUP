@@ -1,0 +1,60 @@
+{
+  "cadastro":[
+      { "img":"./../../assets/img/Lorraine.jpg",
+        "nome": "Lorraine", 
+        "email": "lorraine.beck22@exemple.com", 
+        "contato": "(960)-861-1890", 
+        "estado": "Uberlândia - MG"
+      },
+      { "img":"./../../assets/img/Lorem.jpg",
+        "nome": "Lorem", 
+        "email": "loremipsum@mail.com", 
+        "contato": "(960)-861-1890", 
+        "estado": "Uberlândia - MG"
+      },
+      { "img":"./../../assets/img/Dolor.jpg",
+        "nome": "Dolor", 
+        "email": "dolorsit123@mail.com", 
+        "contato": "(960)-861-1890", 
+        "estado": "São Paulo - SP"
+      },
+      { "img":"./../../assets/img/Consectut.jpg",
+        "nome": "Consectut", 
+        "email": "consectut123@mail.com", 
+        "contato": "(960)-861-1890", 
+        "estado": "Uberlândia - MG"
+      },
+      { "img":"./../../assets/img/Elit.jpg",
+        "nome": "Elit", 
+        "email": "elitamet@mail.com", 
+        "contato": "(960)-861-1890", 
+        "estado": "São Paulo - SP"
+      },
+      { "img":"./../../assets/img/adipiscinq.jpg",
+        "nome": "Adipiscinq",
+         "email": "adipiscinq@mail.com", 
+         "contato": "(960)-861-1890", 
+         "estado": "São Paulo - SP", 
+         "action": "" 
+      },
+      { "img":"./../../assets/img/Ipsum.jpg",
+        "nome": "Ipsum", 
+        "email": "ipsumdolor12345@mail.com", 
+        "contato": "(960)-861-1890", 
+        "estado": "Uberlândia - MG"
+      },
+      { "img":"./../../assets/img/Beck-Elit.jpg",
+        "nome": "Beck Elit", 
+        "email": "beckelit@mail.com", 
+        "contato": "(960)-861-1890", 
+        "estado": "Belo Horizonte - MG"
+      },
+      { "img":"./../../assets/img/Lorem.jpg",
+        "nome": "Lorem", 
+        "email": "loremipsum@mail.com", 
+        "contato": "(960)-861-1890", 
+        "estado": "São Paulo - SP"
+      }
+    
+  ]
+}

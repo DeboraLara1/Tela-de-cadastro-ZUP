@@ -1,0 +1,27 @@
+.sidenav{
+  background-color: #EEEEEE;
+  width: 150px;
+  margin-bottom: 3%;
+}
+
+.sidenav a{
+  color: #455A64;
+}
+
+.sidenav i {
+  padding-right: 10px;
+}
+.content{
+  padding: 16px;
+  background-color: #ffff;
+}
+.todos > i{
+  color: green;
+}
+
+.atendidos > i{
+  color: royalblue;
+}
+.delete> i{
+  color: red;
+}
