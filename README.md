@@ -15,5 +15,6 @@
 <br /> <br />
 3 - Executar/subir API Json-server;
 <br /> `json-server --watch db.json`
+<br /> <br />
 4 - Executar/subir projeto;
 <br /> `npm start`
