@@ -1,6 +1,6 @@
 # Desafio Front-End Zup
 
-- Este projeto foi desenvolvido com o objetivo de reproduzir uma tela de cadastro de usuário, no momento não possui nenhuma funcionalidade apenas uso de rotas.
+Este projeto foi desenvolvido com o objetivo de reproduzir uma tela de cadastro de usuário, no momento não possui nenhuma funcionalidade apenas uso de rotas.
 
 
 ## Pré-requisitos
