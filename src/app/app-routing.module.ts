@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { CadastrosComponent } from './front-end/components/cadastros/cadastros.component';
-import { HomeComponent } from './front-end/components/home/home.component';
+import { CadastrosComponent } from './components/cadastros/cadastros.component';
+import { HomeComponent } from './components/home/home.component';
 
 const routes: Routes = [{
   path: "",

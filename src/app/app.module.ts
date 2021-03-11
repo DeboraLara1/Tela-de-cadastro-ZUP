@@ -19,11 +19,11 @@ import { registerLocaleData } from '@angular/common';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { FooterComponent } from './front-end/components/templete/footer/footer.component';
-import { HeaderComponent } from './front-end/components/templete/header/header.component';
-import { NavComponent } from './front-end/components/templete/nav/nav.component';
-import { HomeComponent } from './front-end/components/home/home.component';
-import { CadastrosComponent } from './front-end/components/cadastros/cadastros.component';
+import { FooterComponent } from './components/templete/footer/footer.component';
+import { HeaderComponent } from './components/templete/header/header.component';
+import { NavComponent } from './components/templete/nav/nav.component';
+import { HomeComponent } from './components/home/home.component';
+import { CadastrosComponent } from './components/cadastros/cadastros.component';
 
 @NgModule({
   declarations: [

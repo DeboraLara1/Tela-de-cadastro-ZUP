@@ -2,7 +2,7 @@ import { AfterViewInit, Component, ViewChild, OnInit } from '@angular/core';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
 import { ActivatedRoute } from '@angular/router';
-import { CadastroService } from 'src/app/front-end/service/cadastro.service';
+import { CadastroService } from 'src/app/service/cadastro.service';
 
 @Component({
   selector: 'app-cadastros',
